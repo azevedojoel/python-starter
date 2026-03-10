@@ -1,1 +1,2 @@
 ruff>=0.1.0
+asttokens>=2.4.0
