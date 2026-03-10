@@ -3,7 +3,7 @@
 
 def main() -> None:
     """Main entry point."""
-    print("Hello from python-starter")
+    print("Hello from python-starter - EDITED!")
 
 
 if __name__ == "__main__":
